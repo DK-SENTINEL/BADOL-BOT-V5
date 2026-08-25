@@ -6,13 +6,13 @@
     "NOTICE": "ওনার ইনফো চেঞ্জ করো না। বট চলবে না।"
   },
   "BOT_INFO": {
-    "NAME": "𝄞⋆⃝🧚‍𝐁𝐀𝐃𝐎𝐋-𝐁𝐎𝐓-𝐕𝟓🧚‍⋆⃝𝄞",
+    "NAME": "𝄞⋆⃝🧚‍SENTINEL BOT🧚‍⋆⃝𝄞",
     "PREFIX": "/",
     "VERSION": "5.2.1",
     "OWNER": "MOHAMMAD BADOL"
   },
   "ADMIN_SYSTEM": {
-    "ADMINS": ["61591265887748"],
+    "ADMINS": ["100013613490125"],
     "ADMIN_ONLY_MODE": false,
     "ADMIN_ONLY_MSG": ""
   },
